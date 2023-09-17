@@ -34,8 +34,7 @@ Now, we can request the following url, if you have successfully completed the ab
 - get product
 
     ```bash
-    curl --location 'http://localhost:8080/product/1' \
-    --data ''
+    curl --location 'http://localhost:8080/product/1'
     ```
   
     Response
