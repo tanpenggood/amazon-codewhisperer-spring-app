@@ -24,7 +24,7 @@ Now, we can request the following url, if you have successfully completed the ab
     --header 'Content-Type: application/json' \
     --data '{
       "id": "1",
-      "name": "colo",
+      "name": "cola",
       "price": "3",
       "description": "Happy water",
       "rating": "S"
@@ -42,7 +42,7 @@ Now, we can request the following url, if you have successfully completed the ab
     ```json
     {
       "id": "1",
-      "name": "colo",
+      "name": "cola",
       "price": "3",
       "description": "Happy water",
       "rating": "S"
